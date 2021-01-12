@@ -1,0 +1,7 @@
+{
+	"model_directory": "model",
+	"checkpoint_filename": "model",
+	"new_data_directory": "new_data",
+	"train_data_directory": "FileTypeData",
+	"new_train_data_directory": "new_train_data"
+}
